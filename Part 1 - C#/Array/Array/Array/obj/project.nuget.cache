@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GPJ4LBmBFckbNxilThhtwb/Pb1V4CL2ALB+52MyzRexd3oUBQGFdNZFrxjd5dtQbA+EhJkVZgKNgEQNHHemvMg==",
+  "success": true,
+  "projectFilePath": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\prelim\\sample_assessment\\Part 1 - C#\\Array\\Array\\Array\\Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

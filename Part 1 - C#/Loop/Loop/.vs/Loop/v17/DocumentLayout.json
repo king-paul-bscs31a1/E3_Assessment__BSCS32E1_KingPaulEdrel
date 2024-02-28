@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\prelim\\sample_assessment\\Part 1 - C#\\Loop\\Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A30B66-EB10-4B6C-9080-2BD93BF656DA}|Loop\\Loop.csproj|e:\\college edrel\\college\\3rd year\\2nd sem\\cs elective\\prelim\\sample_assessment\\part 1 - c#\\loop\\loop\\loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A30B66-EB10-4B6C-9080-2BD93BF656DA}|Loop\\Loop.csproj|solutionrelative:loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\prelim\\sample_assessment\\Part 1 - C#\\Loop\\Loop\\Loop\\Program.cs",
+              "RelativeDocumentMoniker": "Loop\\Program.cs",
+              "ToolTip": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\prelim\\sample_assessment\\Part 1 - C#\\Loop\\Loop\\Loop\\Program.cs",
+              "RelativeToolTip": "Loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:59:49.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
